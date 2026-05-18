@@ -1,0 +1,2 @@
+http://localhost/mi_sistema/registro.php
+http://localhost/phpmyadmin/index.php
